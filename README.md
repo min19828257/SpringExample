@@ -4,3 +4,8 @@
 
 ### Good reference
 - [기본 환경 설정](https://freestrokes.tistory.com/78?category=1073732)
+- [hello world project](https://examples.javacodegeeks.com/enterprise-java/spring/boot/spring-boot-hello-world-example/)
+
+### TroubleShooting
+- 파일명이 너무 길어 압축이 안풀리는 경우
+  - C:// 에서알집에 들어간 후 우클릭, 현재 폴더에 압축 풀기 클릭
