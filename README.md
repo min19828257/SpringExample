@@ -4,3 +4,12 @@
 
 ### Good reference
 - [기본 환경 설정](https://freestrokes.tistory.com/78?category=1073732)
+- [hello world project](https://examples.javacodegeeks.com/enterprise-java/spring/boot/spring-boot-hello-world-example/)
+- [스프링 프로젝트 구조](https://jayviii.tistory.com/15)
+
+### TroubleShooting
+- 파일명이 너무 길어 압축이 안풀리는 경우
+  - C://로 압축파일을 옮긴 뒤 더블클릭 -> 우클릭, 현재 폴더에 압축 풀기 클릭
+
+### Good Lecture
+- [[인프런]스프링 입문편](https://www.inflearn.com/course/spring/dashboard)
