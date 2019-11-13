@@ -9,7 +9,7 @@
 
 ### TroubleShooting
 - 파일명이 너무 길어 압축이 안풀리는 경우
-  - C:// 에서알집에 들어간 후 우클릭, 현재 폴더에 압축 풀기 클릭
+  - C://로 압축파일을 옮긴 뒤 더블클릭 -> 우클릭, 현재 폴더에 압축 풀기 클릭
 
 ### Good Lecture
 - [[인프런]스프링 입문편](https://www.inflearn.com/course/spring/dashboard)
