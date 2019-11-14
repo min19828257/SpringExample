@@ -6,6 +6,7 @@
 - [기본 환경 설정](https://freestrokes.tistory.com/78?category=1073732)
 - [hello world project](https://examples.javacodegeeks.com/enterprise-java/spring/boot/spring-boot-hello-world-example/)
 - [스프링 프로젝트 구조](https://jayviii.tistory.com/15)
+- [Intelij 환경 설정](https://www.bsidesoft.com/?p=6160)
 
 ### TroubleShooting
 - 파일명이 너무 길어 압축이 안풀리는 경우
